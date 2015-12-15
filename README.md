@@ -5,3 +5,4 @@
 3. webhook callback api server 개발
 4. payload 데이터 가공
 5. enqueue
+6. dequeue worker 개발
