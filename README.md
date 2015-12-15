@@ -4,3 +4,4 @@
 2. 해당 토큰으로 특정 repository에 webhook 생성
 3. webhook callback api server 개발
 4. payload 데이터 가공
+5. enqueue
