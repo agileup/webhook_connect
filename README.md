@@ -8,4 +8,3 @@
 6. dequeue worker 개발
 7. 가공된 payload 재조립
 8. 테스트
-9. 테스트2
