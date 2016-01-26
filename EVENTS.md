@@ -3,3 +3,4 @@
 - commit_comment
 - create
 - delete
+- issue
